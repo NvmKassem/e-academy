@@ -12,5 +12,5 @@ Features of the platform
 ## Team members
 |   Name   | ID      | GitHub   
 | ------------- | ------------- | --------    |
-| `Adir Ben-David`        |    40190551      | ([GitHub/beezzyy](https://github.com/beezzyy))   |
+| Adir Ben-David        |    `40190551`      | ([GitHub/beezzyy](https://github.com/beezzyy))   |
 | `Jonathan Abitbol`         | 40190550         | ([GitHub/yoniabitbol](https://github.com/yoniabitbol))   |

@@ -16,3 +16,6 @@ Features of the platform
 | `Jonathan Abitbol`         | `40190550`         | ([GitHub/yoniabitbol](https://github.com/yoniabitbol))   |
 | `Reuven Ostrofsky`        |    `40188881`      | ([GitHub/reuven1203](https://github.com/reuven1203))   |
 | `Emilie Rosenthal-Bustamante`         | `40134421`         | ([GitHub/emrb9](https://github.com/emrb9))   |
+| `Kassem El-Zoghbi`         | `40174145`         | ([GitHub/NvmKassem](https://github.com/NvmKassem))   |
+
+

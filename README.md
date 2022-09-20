@@ -13,4 +13,4 @@ Features of the platform
 |   Name   | ID      | GitHub   
 | ------------- | ------------- | --------    |
 | `Adir Ben-David`        |    40190551      | ([GitHub/beezzyy](https://github.com/beezzyy))   |
-| `Jonathan Abitbol`         | 40190550         | ([GitHub/beezzyy](https://github.com/yoniabitbol))   |
+| `Jonathan Abitbol`         | 40190550         | ([GitHub/yoniabitbol](https://github.com/yoniabitbol))   |

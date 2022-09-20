@@ -10,5 +10,7 @@ Creating an E-learning platform
 Features of the platform
 
 ## Team members
-- Ahmed Rebei @ahmedrebei
-- person @person
+|   Name   | ID      | GitHub   
+| ------------- | ------------- | --------    |
+| `Adir Ben-David`        |    40190551      | ([GitHub/beezzyy](https://github.com/beezzyy))   |
+| `Jonathan Abitbol`         | 40190550         | ([GitHub/beezzyy](https://github.com/yoniabitbol))   |

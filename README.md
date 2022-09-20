@@ -12,5 +12,7 @@ Features of the platform
 ## Team members
 |   Name   | ID      | GitHub   
 | ------------- | ------------- | --------    |
-| Adir Ben-David        |    `40190551`      | ([GitHub/beezzyy](https://github.com/beezzyy))   |
-| `Jonathan Abitbol`         | 40190550         | ([GitHub/yoniabitbol](https://github.com/yoniabitbol))   |
+| `Adir Ben-David`        |    `40190551`      | ([GitHub/beezzyy](https://github.com/beezzyy))   |
+| `Jonathan Abitbol`         | `40190550`         | ([GitHub/yoniabitbol](https://github.com/yoniabitbol))   |
+| `Reuven Ostrofsky`        |    `40188881`      | ([GitHub/reuven1203](https://github.com/reuven1203))   |
+| `Emilie Rosenthal-Bustamante`         | `40134421`         | ([GitHub/emrb9](https://github.com/emrb9))   |

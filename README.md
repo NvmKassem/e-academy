@@ -26,5 +26,7 @@ The E-Academy platform offers an easy and intuitive system to bring together stu
 | `Anis Brachemi`         | `40177727`         | ([GitHub/anisdzdev](https://github.com/anisdzdev))   |
 | `Youssef Morcos`         | `40124441`         | ([GitHub/YoussefMorcos](https://github.com/YoussefMorcos))   |
 | `Jonathan Haddad`         | `40111053`         | ([GitHub/jonathan-githubofficial](https://github.com/jonathan-githubofficial))   |
+| `Ayman Mansoor`         | `40108719`         | ([GitHub/AymanMansoor](https://github.com/AymanMansoor))   |
+
 
 

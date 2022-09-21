@@ -25,4 +25,6 @@ The E-Academy platform offers an easy and intuitive system to bring together stu
 | `Kassem El-Zoghbi`         | `40174145`         | ([GitHub/NvmKassem](https://github.com/NvmKassem))   |
 | `Anis Brachemi`         | `40177727`         | ([GitHub/anisdzdev](https://github.com/anisdzdev))   |
 | `Youssef Morcos`         | `40124441`         | ([GitHub/YoussefMorcos](https://github.com/YoussefMorcos))   |
+| `Jonathan Haddad`         | `40111053`         | ([GitHub/jonathan-githubofficial](https://github.com/jonathan-githubofficial))   |
+
 

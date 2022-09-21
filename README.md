@@ -1,4 +1,4 @@
-# SOEN342_template
+# SOEN342 e-Academy Project
 
 ## Objective
 The objective of this E-Academy platform is to offer an easy and intuitive system to bring together students and tutors for online tutoring services for any subject.
@@ -18,4 +18,5 @@ E-Academy includes many features that make the booking and tutor allocation very
 | `Emilie Rosenthal-Bustamante`         | `40134421`         | ([GitHub/emrb9](https://github.com/emrb9))   |
 | `Kassem El-Zoghbi`         | `40174145`         | ([GitHub/NvmKassem](https://github.com/NvmKassem))   |
 | `Anis Brachemi`         | `40177727`         | ([GitHub/anisdzdev](https://github.com/anisdzdev))   |
+| `Youssef Morcos`         | `40124441`         | ([GitHub/YoussefMorcos](https://github.com/YoussefMorcos))   |
 

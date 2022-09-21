@@ -1,7 +1,7 @@
 # SOEN342_template
 
 ## Objective
-Here goes the objectives of the project
+The objective of this E-Academy platform is to offer an easy and intuitive platform to bring together students and tutors for online tutoring services for any subject. 
 
 ## Project Description
 Creating an E-learning platform

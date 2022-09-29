@@ -7,7 +7,7 @@ The objective of this project is to offer students hands-on experience in the do
 The E-Academy platform offers an easy and intuitive system to bring together students and tutors for online tutoring services for any subject.
 
 ## Features
-|Guest|Students|Parents|Tutors|Admin|
+|`Guest`|`Students`|`Parents`|`Tutors`|`Admin`|
 |-----------|-----------|-----------|-----------|-----------|
 |Can request to register as any other type of user (except Admin).Has access to view the tutors courses and the main page.|The students are going to be able to search for a subject that they need help with. From that search, they will be able to select a tutor from a variety of people that offer the service. They can leave a review on the tutor’s profile in order to help fellow students choose.|Parents are going to have the same features as the students. When they register, they can be assigned to a student as their parent which gives them access to chatting with the tutor.|They can post their profile as well as all the subjects that they can help with. They will be able to view their messages and decide on an appointment. Tutors can send feedback on each session to the parent if the student is a young child, or if the student is an adult the feedback for each session is sent directly to them to assess their progress. |Can view the reported accounts and will be able to move forward with the ban or not. For example, if someone is reported for being disrespectful, the admin can decide whether to ban the account or not.|
 

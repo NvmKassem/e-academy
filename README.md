@@ -18,6 +18,7 @@ The E-Academy platform offers an easy and intuitive system to bring together stu
 ## Technologies
 
 * Figma
+* TBD
 
 ## Team Members
 |   Name   | ID      | GitHub   

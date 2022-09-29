@@ -16,6 +16,7 @@ The E-Academy platform offers an easy and intuitive system to bring together stu
 * In the case where a student is looking for a course at a time that is convenient for them, they can request a time slot and a tutor can reserve it at their convenience.
 
 ##Technologies
+
 * Figma
 
 ## Team Members

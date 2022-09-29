@@ -15,6 +15,9 @@ The E-Academy platform offers an easy and intuitive system to bring together stu
 * At the end of each week, a call is automatically scheduled at the end of the final session between the tutor and the parent/student and an in-depth assessment of the overall progress is given by the tutor to the client. 
 * In the case where a student is looking for a course at a time that is convenient for them, they can request a time slot and a tutor can reserve it at their convenience.
 
+##Technologies
+* Figma
+
 ## Team Members
 |   Name   | ID      | GitHub   
 | ------------- | ------------- | --------    |

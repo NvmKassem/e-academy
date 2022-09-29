@@ -7,23 +7,16 @@ The objective of this project is to offer students hands-on experience in the do
 The E-Academy platform offers an easy and intuitive system to bring together students and tutors for online tutoring services for any subject.
 
 ## Features
-
-* Intuitive booking and tutor allocation
-* Role-based account system
-* Tutors can post their services and availabilities while students can browse the available time slots for any given course at any given time. 
-* Tutors can send feedback on each session to the parent if the student is a young child, or if the student is an adult the feedback for each session is sent directly to them to assess their progress. 
-* At the end of each week, a call is automatically scheduled at the end of the final session between the tutor and the parent/student and an in-depth assessment of the overall progress is given by the tutor to the client. 
-* In the case where a student is looking for a course at a time that is convenient for them, they can request a time slot and a tutor can reserve it at their convenience.
-
-## Additional Features
 |Guest|Students|Parents|Tutors|Admin|
 |-----------|-----------|-----------|-----------|-----------|
-| Can request to register as any other type of user (except Admin).
- Has access to view the tutors courses and the main page.| The students are going to be able to search for a subject that they need help with. From that search, they will be able to select a tutor from a variety of people that offer the service.
-  They can leave a review on the tutor’s profile in order to help fellow students choose.|Parents are going to have the same features as the students.
-  When they register, they can be assigned to a student as their parent which gives them access to chatting with the tutor.|They can post their profile as well as all the subjects that they can help with. They will be able to view their messages and decide on an appointment.
-|Can view the reported accounts and will be able to move forward with the ban or not. For example, if someone is reported for being disrespectful, the admin can decide whether to ban the account or not.
-|
+|Can request to register as any other type of user (except Admin).Has access to view the tutors courses and the main page.|The students are going to be able to search for a subject that they need help with. From that search, they will be able to select a tutor from a variety of people that offer the service. They can leave a review on the tutor’s profile in order to help fellow students choose.|Parents are going to have the same features as the students. When they register, they can be assigned to a student as their parent which gives them access to chatting with the tutor.|They can post their profile as well as all the subjects that they can help with. They will be able to view their messages and decide on an appointment. Tutors can send feedback on each session to the parent if the student is a young child, or if the student is an adult the feedback for each session is sent directly to them to assess their progress. |Can view the reported accounts and will be able to move forward with the ban or not. For example, if someone is reported for being disrespectful, the admin can decide whether to ban the account or not.|
+
+## Additional Features
+ * **Accounts creation**: The users can create their accounts and select an account type from the list mentioned above. They need to input their email address, and create a new password as well as give their phone number as a contacting point. Tutors will need to include their skillset, upload any certificate, fill their education and work experience.
+ *  **Requests management**: Students/Parents can request lessons from tutors.
+ *  **Chat System**: Chat system between a tutor and a student OR parent when a lesson is requested.
+ *  **Payment System**: In case the lesson is taken online, a payment is made by the Parent/Student to the Tutor. Funds get locked until the lesson is started and is completed.
+ * **Report Account System**: Can be done by anyone. Admins can decide which actions to take on the reported account.
 
 ## Technologies
 
